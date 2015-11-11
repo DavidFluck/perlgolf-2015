@@ -11,4 +11,4 @@ While it was a neat trick, I eventually realized that testing for divisibility b
 This reduced my program's length, but not by as much as I would have liked. Text formatting took up a decent amount of space and I was quickly running out of time (we only had a week). That being said, I was sufficiently proud of my program: I'd written a program that found the prime factorization of an integer in only 139 characters (with the final 2 being due to the `-l` command-line flag, which was necessary to get the final newline). I submitted what I had and definitely look forward to playing another round of golf.
 
 # The Code
-The repository contains two files: `factor.pl` and `factor-mini.pl`. `factor.pl` is the original, un-golfed version, whereas `factor-mini.pl` is the same program with the spaces remove. It's guaranteed to work with Perl 5.8.8.
+The repository contains two files: `factor.pl` and `factor-mini.pl`. `factor.pl` is the original, un-golfed version, whereas `factor-mini.pl` is the same program with the spaces removed. It's guaranteed to work with Perl 5.8.8.
